@@ -1,0 +1,14 @@
+[
+    {
+        "id": "3f03fc21-5316-4e8c-9f60-2c3862eb62c6",
+        "fname": "John ",
+        "lname": "Muller",
+        "phone": "0151427893226"
+    },
+    {
+        "id": "3eb1f968-9801-4c26-a9dc-7931c7ab59b4",
+        "fname": "Maria ",
+        "lname": "Andreas",
+        "phone": "0122456215456"
+    }
+]
